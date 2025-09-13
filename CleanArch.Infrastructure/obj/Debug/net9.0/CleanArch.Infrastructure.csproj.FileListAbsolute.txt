@@ -17,3 +17,4 @@
 /Users/charles/CleanArch/CleanArch.Infrastructure/obj/Debug/net9.0/CleanArch.Infrastructure.pdb
 /Users/charles/CleanArch/CleanArch.Infrastructure/obj/Debug/net9.0/CleanArch.Infrastructure.genruntimeconfig.cache
 /Users/charles/CleanArch/CleanArch.Infrastructure/obj/Debug/net9.0/ref/CleanArch.Infrastructure.dll
+/Users/charles/CleanArch/CleanArch.Infrastructure/obj/Debug/net9.0/CleanArch.Infrastructure.sourcelink.json

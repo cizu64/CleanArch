@@ -9,3 +9,4 @@
 /Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/refint/CleanArch.Domain.dll
 /Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/CleanArch.Domain.pdb
 /Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/ref/CleanArch.Domain.dll
+/Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/CleanArch.Domain.sourcelink.json

@@ -13,3 +13,4 @@
 /Users/charles/CleanArch/CleanArch.Application/bin/Debug/net9.0/CleanArch.Domain.pdb
 /Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArch.Application.csproj.AssemblyReference.cache
 /Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArc.054EF71E.Up2Date
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArch.Application.sourcelink.json

@@ -1,5 +1,6 @@
 using CleanArch.Domain.Interfaces;
 using CleanArch.Infrastructure.Persistence;
+using CleanArch.Infrastructure.Repository;
 using CleanArch.Infrastructure.Services.Logs;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -16,6 +17,8 @@ public static class Registrations
         ));
 
         services.AddSingleton<ILog, Logger>();
+
+        services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
 
         // services.AddOptions<JwtOptions>()
         //     .Bind(configuration.GetSection("JWT"));

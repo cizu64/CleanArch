@@ -91,3 +91,4 @@
 /Users/charles/CleanArch/CleanArch.API/bin/Debug/net9.0/CleanArch.Application.pdb
 /Users/charles/CleanArch/CleanArch.API/bin/Debug/net9.0/CleanArch.Infrastructure.pdb
 /Users/charles/CleanArch/CleanArch.API/bin/Debug/net9.0/CleanArch.Domain.pdb
+/Users/charles/CleanArch/CleanArch.API/obj/Debug/net9.0/CleanArch.API.sourcelink.json
