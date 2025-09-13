@@ -1,0 +1,11 @@
+/Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/CleanArch.Domain.AssemblyInfoInputs.cache
+/Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/CleanArch.Domain.AssemblyInfo.cs
+/Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/CleanArch.Domain.csproj.CoreCompileInputs.cache
+/Users/charles/CleanArch/CleanArch.Domain/bin/Debug/net9.0/CleanArch.Domain.deps.json
+/Users/charles/CleanArch/CleanArch.Domain/bin/Debug/net9.0/CleanArch.Domain.dll
+/Users/charles/CleanArch/CleanArch.Domain/bin/Debug/net9.0/CleanArch.Domain.pdb
+/Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/CleanArch.Domain.dll
+/Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/refint/CleanArch.Domain.dll
+/Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/CleanArch.Domain.pdb
+/Users/charles/CleanArch/CleanArch.Domain/obj/Debug/net9.0/ref/CleanArch.Domain.dll

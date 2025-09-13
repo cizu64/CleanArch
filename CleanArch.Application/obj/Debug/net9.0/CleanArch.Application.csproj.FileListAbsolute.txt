@@ -1,0 +1,15 @@
+/Users/charles/CleanArch/CleanArch.Application/bin/Debug/net9.0/CleanArch.Application.deps.json
+/Users/charles/CleanArch/CleanArch.Application/bin/Debug/net9.0/CleanArch.Application.dll
+/Users/charles/CleanArch/CleanArch.Application/bin/Debug/net9.0/CleanArch.Application.pdb
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArch.Application.AssemblyInfoInputs.cache
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArch.Application.AssemblyInfo.cs
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArch.Application.csproj.CoreCompileInputs.cache
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArch.Application.dll
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/refint/CleanArch.Application.dll
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArch.Application.pdb
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/ref/CleanArch.Application.dll
+/Users/charles/CleanArch/CleanArch.Application/bin/Debug/net9.0/CleanArch.Domain.dll
+/Users/charles/CleanArch/CleanArch.Application/bin/Debug/net9.0/CleanArch.Domain.pdb
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArch.Application.csproj.AssemblyReference.cache
+/Users/charles/CleanArch/CleanArch.Application/obj/Debug/net9.0/CleanArc.054EF71E.Up2Date
